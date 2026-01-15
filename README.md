@@ -7,3 +7,10 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 I like to python,java
 ## Contact me
 I speak spanish, portuguese and english
+
+## Redes sociales
+Facebook:
+gmail:
+whatsapp:
+X:
+
